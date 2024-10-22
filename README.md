@@ -2,6 +2,8 @@
 Abstract:
 
 This project focuses on analyzing and predicting the stock prices of major technology companies—Apple, Google, Microsoft, and Amazon—using historical data retrieved from Yahoo Finance. The analysis involves descriptive statistics, visualizations of stock performance, and calculation of moving averages, daily returns, and correlations between stocks. Additionally, a Long Short-Term Memory (LSTM) neural network is used to predict the future closing price of Apple Inc. stock based on historical data. The predictive model is built using a time-series approach, and its performance is evaluated using metrics such as Root Mean Squared Error (RMSE).
+
+
 Methodology:
 
     Data Collection:
